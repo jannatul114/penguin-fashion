@@ -14,8 +14,8 @@ nav{
 
 .intro-text{
     font-family: 'Bebas Neue', cursive;
-    font-size: 80px;
-    
+    /* font-size: 40px;
+*/
 }
 
 .intro-title{
@@ -34,5 +34,5 @@ nav{
 }
 
 .logo{
-    width: 250px;
+    width: 140px;
 }
