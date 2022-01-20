@@ -13,13 +13,12 @@ nav{
 }
 
 .intro-text{
-    
-
     font-family: 'Bebas Neue', cursive;
-
+    font-size: 80px;
+    
 }
 
-.intro-text span{
+.intro-title{
     color: #FABE4C;
 }
 
